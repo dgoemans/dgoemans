@@ -1,6 +1,6 @@
 ### Hi there, I'm David!
 
-[Hello](./bear.gif)
+![Hello](https://raw.githubusercontent.com/dgoemans/dgoemans/master/hello.gif)
 
  :sparkles: I’m currently working on back-office software for a swiss fintech startup, [LykkeCorp](https://github.com/LykkeCorp/)
   
