@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm David!
 
-<!--
-**dgoemans/dgoemans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Hello](./bear.gif)
 
-Here are some ideas to get you started:
+ :sparkles: I’m currently working on back-office software for a swiss fintech startup, [LykkeCorp](https://github.com/LykkeCorp/)
+  
+ :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controller, to configuring infrastructure with terraform.
+ 
+ :hammer: Mostly Javascript/Typescript/C# but have previously done C++, Go, Java, PHP
+ 
+ :thumbsup: I especially enjoy frontend development an game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ :computer: Tech Professional since 2005
+ 
+ :star: He/Him
+ 
+ :mailbox_closed: email: dgoemans@gmail.com / twitter: [@dgoemans](https://twitter.com/dgoemans) / insta: [@dgoemans](https://instragram.com/dgoemans)
+ 
+ <!--
+SEO YO
+ :key: Keywords: Fullstack, Javascript, Typescript, C#, React, Aspnet Core, DotnetCore 
 -->
