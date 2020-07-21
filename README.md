@@ -4,7 +4,7 @@
 
  :sparkles: I’m currently working on back-office software for a swiss fintech startup, [LykkeCorp](https://github.com/LykkeCorp/)
   
- :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controller, to configuring infrastructure with terraform.
+ :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with terraform.
  
  :hammer: Mostly Javascript/Typescript/C# but have previously done C++, Go, Java, PHP
  
