@@ -2,7 +2,7 @@
 
 ![Hello](https://raw.githubusercontent.com/dgoemans/dgoemans/master/hello.gif)
 
- :sparkles: I’m currently working on back-office software for a swiss fintech startup, [LykkeCorp](https://github.com/LykkeCorp/)
+ :sparkles: I’ve built a redux wrapper to make store management simple, [Spot](https://github.com/dgoemans/spot)
   
  :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with terraform.
  
