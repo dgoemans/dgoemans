@@ -6,9 +6,9 @@
   
  :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with terraform.
  
- :hammer: Mostly Javascript/Typescript/C# but have previously done C++, Go, Java, PHP
+ :hammer: Mostly C#/Javascript/Typescript but have previously done C++, Go, Java, PHP
  
- :thumbsup: I especially enjoy frontend development an game development
+ :thumbsup: I especially enjoy frontend development and game development
 
  :computer: Tech Professional since 2005
  
