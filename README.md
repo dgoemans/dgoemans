@@ -4,7 +4,7 @@
 
  :sparkles: I’ve built a redux wrapper to make store management simple, [Spot](https://github.com/dgoemans/spot)
   
- :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with terraform.
+ :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with pulumi.
  
  :hammer: Mostly C#/Javascript/Typescript but have previously done C++, Go, Java, PHP
  
