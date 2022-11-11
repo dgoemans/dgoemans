@@ -2,11 +2,11 @@
 
 ![Hello](https://raw.githubusercontent.com/dgoemans/dgoemans/master/hello.gif)
 
- :sparkles: I’ve built a redux wrapper to make store management simple, [Spot](https://github.com/dgoemans/spot)
+ :sparkles: I’m the CTO of [Faslet](https://faslet.me)
   
- :sparkling_heart: I enjoy building things, from tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with pulumi.
+ :sparkling_heart: I enjoy building things, from companies, teams, tweaking CSS, writing ASPNetCore controllers, to configuring infrastructure with pulumi.
  
- :hammer: Mostly C#/Javascript/Typescript but have previously done C++, Go, Java, PHP
+ :hammer: Mostly Typescript/C# but have previously done C++, Go, Java, PHP
  
  :thumbsup: I especially enjoy frontend development and game development
 
