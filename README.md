@@ -14,7 +14,7 @@
  
  :star: He/Him
  
- :mailbox_closed: email: dgoemans@gmail.com / twitter: [@dgoemans](https://twitter.com/dgoemans) / insta: [@dgoemans](https://instagram.com/dgoemans) / mastodon: <a rel="me" href="https://mas.to/@dgoemans">dgoemans@mas.to</a>
+ :mailbox_closed: email: dgoemans@gmail.com / twitter: [@dgoemans](https://twitter.com/dgoemans) / insta: [@dgoemans](https://instagram.com/dgoemans) / mastodon: [dgoemans@mas.to](https://mas.to/@dgoemans)
  
  <!--
 SEO YO
