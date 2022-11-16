@@ -19,5 +19,4 @@
  <!--
 SEO YO
  :key: Keywords: Fullstack, Javascript, Typescript, C#, React, Aspnet Core, DotnetCore 
-<a href="https://mas.to/@dgoemans" rel="me">Mastodon</a>
 -->
