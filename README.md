@@ -12,10 +12,6 @@
 
  :computer: Tech Professional since 2005
  
- :star: He/Him
- 
- :mailbox_closed: email: dgoemans@gmail.com
- 
  <!--
 SEO YO
  :key: Keywords: Fullstack, Javascript, Typescript, C#, React, Aspnet Core, DotnetCore 
